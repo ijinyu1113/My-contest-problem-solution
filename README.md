@@ -1,3 +1,3 @@
 # USACO
 
-Solution of past USACO problems
+My own solution of past USACO problems
